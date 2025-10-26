@@ -6,5 +6,6 @@ const site = lume({
 });
 
 site.use(top());
+site.add("isaac");
 
 export default site;

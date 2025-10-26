@@ -1,12 +1,107 @@
+/* Isaac Display Bold */
+@font-face {
+	font-family: 'IsaacDisplay';
+	src: url("/isaac/IsaacDisplayBold.woff") format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+/* Isaac Light */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacLight.woff") format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+/* Isaac Light Italic */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacLightItalic.woff") format('woff');
+	font-weight: 300;
+	font-style: italic;
+}
+
+/* Isaac Book */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacBook.woff") format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+/* Isaac Book Italic */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacBookItalic.woff") format('woff');
+	font-weight: 400;
+	font-style: italic;
+}
+
+/* Isaac Regular */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacRegular.woff") format('woff');
+	font-weight: 500;
+	font-style: normal;
+}
+
+/* Isaac Regular Italic */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacRegularItalic.woff") format('woff');
+	font-weight: 500;
+	font-style: italic;
+}
+
+/* Isaac Normal */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacNormal.woff") format('woff');
+	font-weight: 600;
+	font-style: normal;
+}
+
+/* Isaac Normal Italic */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacNormalItalic.woff") format('woff');
+	font-weight: 600;
+	font-style: italic;
+}
+
+/* Isaac Bold */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacBold.woff") format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+/* Isaac Bold Italic */
+@font-face {
+	font-family: 'Isaac';
+	src: url("/isaac/IsaacBoldItalic.woff") format('woff');
+	font-weight: 700;
+	font-style: italic;
+}
+
 :root {
   /* Colors */
-  --color-primary: CornflowerBlue;
-  --color-secondary: DarkSalmon;
+  --color-primary: #824284;
+  --color-secondary: #f19000;
   --color-dark: black;
-  --color-light: Linen;
+  
 
   /* Fonts */
-  --font-family-display: system-ui, sans-serif;
-  --font-family-ui: system-ui, sans-serif;
+  --font-family-display: IsaacDisplay, system-ui, sans-serif;
+  --font-family-ui: Isaac, system-ui, sans-serif;
   --font-weight-bold: 600;
+}
+.theme.is-primary {
+  --color-text: #f19000;
+  --color-titles: white;
+}
+.navbar-logo img {
+	width: auto;
 }

@@ -1,12 +1,12 @@
 menu:
   - text: Programa
-    url: "#programa"
+    url: '#programa'
     highlight: false
   - text: Relatoras
-    url: "#relatoras"
+    url: '#relatoras'
     highlight: false
   - text: Localización
-    url: "#localizacion"
+    url: '#localizacion'
     highlight: false
 blocks:
   - type: hero
@@ -135,7 +135,7 @@ blocks:
             title: Benvida
             speakers: []
           - time: 16.15 h
-            title: "Futuro e deseño: na incrucillada da imaxinación"
+            title: 'Futuro e deseño: na incrucillada da imaxinación'
             label: Relatorio
             speakers: []
           - time: 17.00 h
@@ -170,7 +170,7 @@ blocks:
               — XXX (EASD Ramón Falcón): XXX
             speakers: []
           - time: 19.00 h
-            title: "Crear nos temos da IA, pactos de convivencia"
+            title: 'Crear nos temos da IA, pactos de convivencia'
             label: Mesa redonda
             subtitle: >-
               Chus Rojo (AGPI), Alberto Quián (USC), Stef Silva (Invisibles) e
@@ -225,39 +225,44 @@ blocks:
     speakers:
       - name: Patricia Portela
         company: The Office
-        image: ""
+        image: ''
         links:
-          - url: "https://www.theofficeco.es/"
+          - url: 'https://www.theofficeco.es/'
       - name: Mariola López
         company: LopezLab
-        image: ""
+        image: ''
         links:
-          - url: "https://www.lopezlab.com/"
+          - url: 'https://www.lopezlab.com/'
       - name: Miguel Leiro
-        image: ""
+        image: ''
         links:
-          - url: "https://migueleiro.com/"
+          - url: 'https://migueleiro.com/'
       - name: Jorge Martínez
-        image: ""
+        image: ''
         links:
-          - url: "https://datavizcowboy.com/"
+          - url: 'https://datavizcowboy.com/'
       - name: Stef Silva
         company: Invisible
-        image: ""
+        image: ''
         links:
-          - url: "https://invisiblelab.es/"
+          - url: 'https://invisiblelab.es/'
       - name: Vítor Quelhas e Horácio Marques
         company: Luga
-        image: ""
+        image: ''
         links:
-          - url: "https://lugaposterbiennale.org/"
+          - url: 'https://lugaposterbiennale.org/'
       - name: Estudantes de deseño
-        image: ""
+        image: ''
         links: []
   - type: location
     title: Localización
     id: localizacion
     theme: width-full
+    embed: >-
+      <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4359.478377350098!2d-8.528990922932982!3d42.871011902666744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2effcc8ff46f0d%3A0x1a7d07e79b5306cb!2sCentro%20de%20Innovaci%C3%B3n%20Cultural%20(CINC)!5e1!3m2!1sgl!2ses!4v1761478357850!5m2!1sgl!2ses"
+      width="600" height="450" style="border:0;" allowfullscreen=""
+      loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     caption: >-
       O FEED 2025 ten como sede principal o Edificio Cinc da cidade da Cultura
       de Galicia. Alí realizaranse todas as actividades programadas, agás o
@@ -270,7 +275,7 @@ blocks:
 
           Desde o centro da cidade: por Rúa Cruceiro do Sar ou Avda. Manuel
           Fraga Iribarne
-      - title: "En transporte público: Bus liña 9"
+      - title: 'En transporte público: Bus liña 9'
         description: >-
           Saídas desde a Praza de Galicia:
 
@@ -300,21 +305,21 @@ blocks:
       Patrocina Xunta de Galicia
     items:
       - alt: Fundación Cidade da Cultura de Galicia
-        img: ""
+        img: ''
       - alt: DIDAC
-        img: ""
+        img: ''
       - alt: Visual MS
-        img: ""
+        img: ''
       - alt: Axeitos & co
-        img: ""
+        img: ''
       - alt: Agencia Gráfica
-        img: ""
+        img: ''
       - alt: Pergraphica
-        img: ""
+        img: ''
       - alt: Serilua
-        img: ""
+        img: ''
 metas:
-  image: ""
+  image: ''
 url: /
 only_state: post-event
 title: FEED 2025 - Foro de deseño - DAG
