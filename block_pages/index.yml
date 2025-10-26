@@ -1,0 +1,321 @@
+menu:
+  - text: Programa
+    url: "#programa"
+    highlight: false
+  - text: Relatoras
+    url: "#relatoras"
+    highlight: false
+  - text: Localización
+    url: "#localizacion"
+    highlight: false
+blocks:
+  - type: hero
+    title: Foro de deseño
+    intro: |-
+      7—8 NOV. 2025<br>
+      SANTIAGO. CDC
+    text: |-
+      Patricia Portela
+      Jorge Martínez
+      Mariola López
+      Vítor Quelhas / Horácio Marques
+      Miguel Leiro
+      Stef Silva
+  - type: text
+    theme: is-light width-box box-border
+    columns: false
+    text: >-
+      O FEED é un evento bianual que organiza a Asociación Galega de Deseño,
+      para achegarse á actualidade das disciplinas do deseño e das persoas que
+      traballan nelas, transladando o interese aos sectores formativo,
+      profesional, empresarial e social.
+
+
+      Queremos que o FEED continúe a ser lugar de encontro para as persoas que
+      formamos o ecosistema do deseño, con relatorios e propostas para coñecer
+      traxetorias, experiencias e a forma de traballar de compañeiros e
+      compañeiras de profesión, e que sirva de inspiración, cuestionamento ou
+      reafirmación do noso camiño.
+
+
+      Esta 8º edición non sería posible sen o apoio directo de AGADIC e a
+      colaboración de empresas e entidades locais.
+  - type: text
+    title: Diálogos para sinerxias
+    theme: is-primary width-full box-fill
+    columns: false
+    text: >-
+      Este ano a DAG abre un espazo de diálogo e encontro para que empresas
+
+      de diferentes sectores e profesionais do deseño intercambien coñecemento e
+      experiencias, para fortalecer a conexión entre o sector produtivo e o
+      sector do deseño. Breves exposicións
+
+      introdutorias darán paso ao diálogo e o intercambio de opinións entre as
+      persoas asistentes.
+
+
+      A DAG conta co apoio do IGAPE para levar a cabo esta actividade.
+  - type: text
+    title: OFF FEED
+    theme: is-primary width-full box-fill
+    columns: false
+    text: |-
+      Pola súa banda, o estudantado de deseño e as asociadas DAG poderán
+      desfrutar do OFF FEED. Amais da presentación de proxectos de alumnado
+      das escolas, que vén sendo habitual, neste foro o venres pola mañá
+      presentaranse iniciativas moi interesantes que amplían os nosos
+      coñecementos sobre licenzas tipográficas e os seus usos, sistemas de
+      comunicación accesibles e lexibles, arquivos dixitais de deseño ou a
+      integración de perspectiva de xénero nos proxectos profesionais.
+  - type: calendar
+    title: Programa
+    id: programa
+    theme: width-full
+    days:
+      - title: Venres 7 novembro. Edicificio Cinc. Cidade da Cultura
+        events:
+          - time: 10.00—12.00 h
+            title: OFF FEED
+            description: >-
+              —Font Licensing Mess
+
+
+              Investigación de María Ramos e Ana Moliz sobre os usos de fontes
+              tipográficas e as súas licenzas. Presenta: María Ramos
+
+
+              —Accesibilidade cognitiva e comunicación
+
+
+              Os sistemas de comunicación alternativa e aumentativa para a
+              inclusión das persoas con diversidade cognitiva. Presentan: Aitana
+              García (Federación Autismo
+
+              de Galicia) e Raquel Boo.
+
+
+              —Avances no Arquivo do Deseño Galego
+
+
+              O grupo de traballo presentará os avances na terceira fase do
+              proxecto AR\DE e a segunda temporada do Rexistro Sonoro do Deseño
+              Galego, posibles grazas ao
+
+              apoio da Deputación da Coruña. Presentan: Óscar Otero e Pablo
+              Silva
+
+
+              —reXerenando: un xogo para dar voltas ao deseño
+
+
+              Artefacto para introducir os principios clave de perspectiva de
+              xénero no traballo
+
+              profesional. Presentan: Uqui Permui e Paula Cantero, do grupo GEN
+              (READ)
+            speakers: []
+          - time: 13.00—15.00 h
+            title: >-
+              Diálogos para sinerxias. O papel do deseño no desenvolvemento
+              empresarial
+            description: >-
+              Sesión de *networking* entre profesionais de deseño e
+              representantes empresariais cun reto: o intercambio de coñecemento
+              para fortalecer a conexión entre o sector produtivo e o sector do
+              deseño.
+
+
+              Esta iniciativa conta co apoio do IGAPE.
+            speakers: []
+          - time: 15.45 h
+            title: Acreditación
+            speakers: []
+          - time: 16.00 h
+            title: Benvida
+            speakers: []
+          - time: 16.15 h
+            title: "Futuro e deseño: na incrucillada da imaxinación"
+            label: Relatorio
+            speakers: []
+          - time: 17.00 h
+            title: >-
+              Stop making sense. Recomendacións sen (demasiado) sentido para
+              quen se inicia no deseño.
+            label: Relatorio
+            speakers: []
+          - time: 17.45 h
+            title: Descanso
+            speakers: []
+          - time: 18.00 h
+            title: >-
+              Presentación de proxectos de estudantes das diferentes escolas de
+              deseño
+            description: >-
+              —Ángel García (Facultade de Comunicación, UVigo): Homenaxe ao
+
+              in(necesario). Macarróns con tomate: Máis difícil do que parece.
+
+              —Sara Dobarrio (EASD Antonio Faílde): Kubix design game.
+
+              —Ana Cristina Ascanio (Escola Superior Marcelo Macías): Hudzzy,
+              unha app para
+
+              o journaling creativo.
+
+              — Mónica Domínguez e Daniel Piñeiro (Aula D): As Ninguéns.
+
+              —Laura Villar (EASD Mestre Mateo): Lembranza.
+
+              — XXX (EASD Ramón Falcón): XXX
+            speakers: []
+          - time: 19.00 h
+            title: "Crear nos temos da IA, pactos de convivencia"
+            label: Mesa redonda
+            subtitle: >-
+              Chus Rojo (AGPI), Alberto Quián (USC), Stef Silva (Invisibles) e
+              representante de DAG.
+            speakers: []
+      - title: Sábado 8 novembro. Fundación Didac. Edificio Cinc. Cidade da Cultura
+        events:
+          - time: 10.00—13.00 h
+            title: Stef Silva
+            label: Taller
+            subtitle: >-
+              Achegamento ao pensamento de futuros. Perspectivas críticas do
+              futuro desde a práctica do deseño.
+            description: |-
+              - Fundación Didac
+              - 20 prazas
+            speakers: []
+          - time: 15.45 h
+            title: Acreditación
+            speakers: []
+          - time: 16.00 h
+            title: Benvida
+            speakers: []
+          - time: 16.15 h
+            title: >-
+              Deseño contemporáneo da información: rupturas formais, contextuais
+              e tecnolóxicas.
+            label: Relatorio
+            speakers: []
+          - time: 17.00 h
+            title: Xente
+            label: Relatorio
+            speakers: []
+          - time: 17.45 h
+            title: Descanso
+            speakers: []
+          - time: 18.00 h
+            title: Cara unha cultura do deseño
+            label: Relatorio
+            speakers: []
+          - time: 18.45 h
+            title: O cartel como territorio de encontro. A LUGA Poster Biennale.
+            label: Relatorio
+            speakers: []
+          - time: 19.30 h
+            title: Coloquio coas relatoras participantes
+            speakers: []
+  - type: speakers
+    title: Relatoras
+    id: relatoras
+    theme: width-full
+    speakers:
+      - name: Patricia Portela
+        company: The Office
+        image: ""
+        links:
+          - url: "https://www.theofficeco.es/"
+      - name: Mariola López
+        company: LopezLab
+        image: ""
+        links:
+          - url: "https://www.lopezlab.com/"
+      - name: Miguel Leiro
+        image: ""
+        links:
+          - url: "https://migueleiro.com/"
+      - name: Jorge Martínez
+        image: ""
+        links:
+          - url: "https://datavizcowboy.com/"
+      - name: Stef Silva
+        company: Invisible
+        image: ""
+        links:
+          - url: "https://invisiblelab.es/"
+      - name: Vítor Quelhas e Horácio Marques
+        company: Luga
+        image: ""
+        links:
+          - url: "https://lugaposterbiennale.org/"
+      - name: Estudantes de deseño
+        image: ""
+        links: []
+  - type: location
+    title: Localización
+    id: localizacion
+    theme: width-full
+    caption: >-
+      O FEED 2025 ten como sede principal o Edificio Cinc da cidade da Cultura
+      de Galicia. Alí realizaranse todas as actividades programadas, agás o
+      taller profesional dirixido por Stef Silva que terá lugar na Fundación
+      Didac.
+    directions:
+      - title: En coche
+        description: >-
+          Saída directa desde a AP 9 (tanto dirección Coruña como Pontevedra).
+
+          Desde o centro da cidade: por Rúa Cruceiro do Sar ou Avda. Manuel
+          Fraga Iribarne
+      - title: "En transporte público: Bus liña 9"
+        description: >-
+          Saídas desde a Praza de Galicia:
+
+          Venres: 8:30 9:50 11:00 12:10 13:20 14:30 15:40 16:50 18:00 19:10
+          20:20 21:30 22:30
+
+          Sábado: De 8:30 a 13:30 (cada 60 min.).
+
+
+          Saídas dende a Cidade da Cultura:
+
+          Venres: 8:00 9:15 10:25 11:35 12:45 13:55 15:05 16:15 17:25 18:35
+          19:45 20:55 22:00
+
+          Sábado: De 9:00 a 13:00 (cada 60 min.).
+      - title: Fundación Didac
+        description: |-
+          Rúa Pérez Constanti 12, baixo
+
+          A 3 min da Praza de Galicia
+          A 10 minutos da Estación Intermodal
+  - type: logos
+    title: Colaboran
+    theme: width-full
+    description: |-
+      Organiza DAG
+      Patrocina Xunta de Galicia
+    items:
+      - alt: Fundación Cidade da Cultura de Galicia
+        img: ""
+      - alt: DIDAC
+        img: ""
+      - alt: Visual MS
+        img: ""
+      - alt: Axeitos & co
+        img: ""
+      - alt: Agencia Gráfica
+        img: ""
+      - alt: Pergraphica
+        img: ""
+      - alt: Serilua
+        img: ""
+metas:
+  image: ""
+url: /
+only_state: post-event
+title: FEED 2025 - Foro de deseño - DAG
+theme: is-primary
