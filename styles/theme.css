@@ -105,3 +105,44 @@
 .navbar-logo img {
 	width: auto;
 }
+.block-hero {
+	background-image: url("/files/header-bg.svg");
+	background-repeat: no-repeat;
+	background-size: auto min(800px, 60vw);
+	text-shadow: 0 0 50px var(--color-bg);
+
+	h1 {
+		text-transform: uppercase;
+		font-weight: 600;
+		font-size: min(120px, 10vw);
+		color: var(--color-secondary);
+		max-width: 4.5em;
+		line-height: 1;
+		letter-spacing: -0.05em;
+		text-align: left;
+		margin: 0 auto;
+	}
+
+	ul {
+		list-style-type: "";
+		text-transform: uppercase;
+		margin: 0 auto;
+		padding: 0;
+		width: fit-content;
+		text-align: left;
+		font-size: 1.2em;
+	}
+}
+.block-logos-list {
+	max-width: 800px;
+	margin-inline: auto;
+	width: 100%;
+	row-gap: 1rem;
+
+	img {
+		filter: none;
+	}
+	a:hover img {
+		filter: saturate(0) brightness(2);
+	}
+}

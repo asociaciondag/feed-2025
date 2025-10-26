@@ -15,12 +15,12 @@ blocks:
       7—8 NOV. 2025<br>
       SANTIAGO. CDC
     text: |-
-      Patricia Portela
-      Jorge Martínez
-      Mariola López
-      Vítor Quelhas / Horácio Marques
-      Miguel Leiro
-      Stef Silva
+      - Patricia Portela
+      - Jorge Martínez
+      - Mariola López
+      - Vítor Quelhas / Horácio Marques
+      - Miguel Leiro
+      - Stef Silva
   - type: text
     theme: is-secondary width-full box-fill
     columns: false
@@ -240,35 +240,45 @@ blocks:
         company: The Office
         image: /files/people/Foto-Patricia-Portela_programa.jpg
         links:
-          - url: 'https://www.theofficeco.es/'
+          - icon: link
+            url: 'https://www.theofficeco.es/'
+          - icon: instagram-logo
+            url: 'https://www.instagram.com/theofficecomunicacion/'
       - name: Mariola López
         id: mariola
         company: LopezLab
         image: /files/people/Mariola_Lopez_programa_BN.jpg
         links:
-          - url: 'https://www.lopezlab.com/'
+          - icon: link
+            url: 'https://www.lopezlab.com/'
+          - icon: x-logo
+            url: 'https://x.com/lopezlab1'
       - name: Miguel Leiro
         id: miguel
         image: /files/people/MIGUEL_LEIRO_programa_BN.jpg
         links:
-          - url: 'https://migueleiro.com/'
+          - icon: link
+            url: 'https://migueleiro.com/'
       - name: Jorge Martínez
         id: jorge
         image: /files/people/Jorge_Martinez_programa.jpg
         links:
-          - url: 'https://datavizcowboy.com/'
+          - icon: link
+            url: 'https://datavizcowboy.com/'
       - name: Stef Silva
         id: stef
         company: Invisible
         image: /files/people/StefSilva_programa_BN.jpg
         links:
-          - url: 'https://invisiblelab.es/'
+          - icon: link
+            url: 'https://invisiblelab.es/'
       - name: Vítor Quelhas e Horácio Marques
         id: vitor-horacio
         company: Luga
         image: /files/people/Luga_unidos.jpg
         links:
-          - url: 'https://lugaposterbiennale.org/'
+          - icon: link
+            url: 'https://lugaposterbiennale.org/'
       - name: Estudantes de deseño
         id: estudantes
         image: /files/people/avatar.webp
@@ -318,9 +328,17 @@ blocks:
   - type: logos
     title: Colaboran
     theme: width-full
-    description: |-
-      Organiza DAG
-      Patrocina Xunta de Galicia
+    size: medium
+    items:
+      - img: /files/logos/LogoDAG.svg
+        url: 'https://dag.gal'
+        description: Organizadora
+      - img: /files/logos/LogoXunta.svg
+        url: 'https://xunta.gal'
+        description: Patrocinadora
+  - type: logos
+    theme: width-full
+    size: small
     items:
       - alt: Fundación Cidade da Cultura de Galicia
         img: /files/logos/Logo_FundacionCDC.svg
