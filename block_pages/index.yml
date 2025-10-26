@@ -22,7 +22,7 @@ blocks:
       Miguel Leiro
       Stef Silva
   - type: text
-    theme: is-light width-box box-border
+    theme: is-secondary width-full box-fill
     columns: false
     text: >-
       O FEED é un evento bianual que organiza a Asociación Galega de Deseño,
@@ -137,13 +137,15 @@ blocks:
           - time: 16.15 h
             title: 'Futuro e deseño: na incrucillada da imaxinación'
             label: Relatorio
-            speakers: []
+            speakers:
+              - stef
           - time: 17.00 h
             title: >-
               Stop making sense. Recomendacións sen (demasiado) sentido para
               quen se inicia no deseño.
             label: Relatorio
-            speakers: []
+            speakers:
+              - patricia
           - time: 17.45 h
             title: Descanso
             speakers: []
@@ -168,7 +170,8 @@ blocks:
               —Laura Villar (EASD Mestre Mateo): Lembranza.
 
               — XXX (EASD Ramón Falcón): XXX
-            speakers: []
+            speakers:
+              - estudantes
           - time: 19.00 h
             title: 'Crear nos temos da IA, pactos de convivencia'
             label: Mesa redonda
@@ -187,7 +190,8 @@ blocks:
             description: |-
               - Fundación Didac
               - 20 prazas
-            speakers: []
+            speakers:
+              - stef
           - time: 15.45 h
             title: Acreditación
             speakers: []
@@ -199,65 +203,80 @@ blocks:
               Deseño contemporáneo da información: rupturas formais, contextuais
               e tecnolóxicas.
             label: Relatorio
-            speakers: []
+            speakers:
+              - jorge
           - time: 17.00 h
             title: Xente
             label: Relatorio
-            speakers: []
+            speakers:
+              - mariola
           - time: 17.45 h
             title: Descanso
             speakers: []
           - time: 18.00 h
             title: Cara unha cultura do deseño
             label: Relatorio
-            speakers: []
+            speakers:
+              - miguel
           - time: 18.45 h
             title: O cartel como territorio de encontro. A LUGA Poster Biennale.
             label: Relatorio
-            speakers: []
+            speakers:
+              - vitor-horacio
           - time: 19.30 h
             title: Coloquio coas relatoras participantes
-            speakers: []
+            speakers:
+              - jorge
+              - mariola
+              - miguel
+              - vitor-horacio
   - type: speakers
     title: Relatoras
     id: relatoras
     theme: width-full
     speakers:
       - name: Patricia Portela
+        id: patricia
         company: The Office
-        image: ''
+        image: /files/people/Foto-Patricia-Portela_programa.jpg
         links:
           - url: 'https://www.theofficeco.es/'
       - name: Mariola López
+        id: mariola
         company: LopezLab
-        image: ''
+        image: /files/people/Mariola_Lopez_programa_BN.jpg
         links:
           - url: 'https://www.lopezlab.com/'
       - name: Miguel Leiro
-        image: ''
+        id: miguel
+        image: /files/people/MIGUEL_LEIRO_programa_BN.jpg
         links:
           - url: 'https://migueleiro.com/'
       - name: Jorge Martínez
-        image: ''
+        id: jorge
+        image: /files/people/Jorge_Martinez_programa.jpg
         links:
           - url: 'https://datavizcowboy.com/'
       - name: Stef Silva
+        id: stef
         company: Invisible
-        image: ''
+        image: /files/people/StefSilva_programa_BN.jpg
         links:
           - url: 'https://invisiblelab.es/'
       - name: Vítor Quelhas e Horácio Marques
+        id: vitor-horacio
         company: Luga
-        image: ''
+        image: /files/people/Luga_unidos.jpg
         links:
           - url: 'https://lugaposterbiennale.org/'
       - name: Estudantes de deseño
-        image: ''
+        id: estudantes
+        image: /files/people/avatar.webp
         links: []
   - type: location
     title: Localización
     id: localizacion
-    theme: width-full
+    theme: is-secondary width-full box-fill
     embed: >-
       <iframe
       src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4359.478377350098!2d-8.528990922932982!3d42.871011902666744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2effcc8ff46f0d%3A0x1a7d07e79b5306cb!2sCentro%20de%20Innovaci%C3%B3n%20Cultural%20(CINC)!5e1!3m2!1sgl!2ses!4v1761478357850!5m2!1sgl!2ses"
@@ -269,34 +288,33 @@ blocks:
       taller profesional dirixido por Stef Silva que terá lugar na Fundación
       Didac.
     directions:
-      - title: En coche
+      - title: En coche dende a AP-9
+        description: Saída directa tanto dirección Coruña como Pontevedra.
+        icon: car-profile
+      - title: En coche dende o centro da cidade
+        description: Pola Rúa Cruceiro do Sar ou Avda. Manuel Fraga Iribarne
+        icon: car-profile
+      - title: Bus liña 9 (Praza de Galicia)
         description: >-
-          Saída directa desde a AP 9 (tanto dirección Coruña como Pontevedra).
-
-          Desde o centro da cidade: por Rúa Cruceiro do Sar ou Avda. Manuel
-          Fraga Iribarne
-      - title: 'En transporte público: Bus liña 9'
-        description: >-
-          Saídas desde a Praza de Galicia:
-
           Venres: 8:30 9:50 11:00 12:10 13:20 14:30 15:40 16:50 18:00 19:10
-          20:20 21:30 22:30
+          20:20 21:30 22:30<br>
 
           Sábado: De 8:30 a 13:30 (cada 60 min.).
-
-
-          Saídas dende a Cidade da Cultura:
-
+        icon: bus
+      - title: Bus liña 9 (Cidade da Cultura)
+        description: >-
           Venres: 8:00 9:15 10:25 11:35 12:45 13:55 15:05 16:15 17:25 18:35
-          19:45 20:55 22:00
+          19:45 20:55 22:00<br>
 
           Sábado: De 9:00 a 13:00 (cada 60 min.).
-      - title: Fundación Didac
+        icon: bus
+      - title: Fundación DIDAC
         description: |-
           Rúa Pérez Constanti 12, baixo
 
-          A 3 min da Praza de Galicia
+          A 3 min da Praza de Galicia<br>
           A 10 minutos da Estación Intermodal
+        icon: map-pin
   - type: logos
     title: Colaboran
     theme: width-full
@@ -305,19 +323,26 @@ blocks:
       Patrocina Xunta de Galicia
     items:
       - alt: Fundación Cidade da Cultura de Galicia
-        img: ''
+        img: /files/logos/Logo_FundacionCDC.svg
+        url: 'https://www.cidadedacultura.gal/gl'
       - alt: DIDAC
-        img: ''
+        img: /files/logos/Logo_FundacionDidac.svg
+        url: 'https://didac.gal/'
       - alt: Visual MS
-        img: ''
+        img: /files/logos/Logo_VisualMS.svg
+        url: 'https://visualms.com/'
       - alt: Axeitos & co
-        img: ''
+        img: /files/logos/Logo_Axeitos.svg
+        url: 'https://axeitos.com/'
       - alt: Agencia Gráfica
-        img: ''
+        img: /files/logos/Logo_AG.svg
+        url: 'https://agenciagrafica.es/'
       - alt: Pergraphica
-        img: ''
+        img: /files/logos/Pergraphica Logo EN_amarelo.png
+        url: 'https://www.instagram.com/pergraphica/'
       - alt: Serilua
-        img: ''
+        img: /files/logos/Logo_Serilua.svg
+        url: 'https://www.serilua.com/'
 metas:
   image: ''
 url: /
