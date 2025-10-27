@@ -171,22 +171,22 @@ blocks:
               Presentación de proxectos de estudantes das diferentes escolas de
               deseño
             description: >-
-              —Ángel García (Facultade de Comunicación, UVigo): Homenaxe ao
+              - Ángel García (Facultade de Comunicación, UVigo): Homenaxe ao
 
               in(necesario). Macarróns con tomate: Máis difícil do que parece.
 
-              —Sara Dobarrio (EASD Antonio Faílde): Kubix design game.
+              - Sara Dobarrio (EASD Antonio Faílde): Kubix design game.
 
-              —Ana Cristina Ascanio (Escola Superior Marcelo Macías): Hudzzy,
+              - Ana Cristina Ascanio (Escola Superior Marcelo Macías): Hudzzy,
               unha app para
 
               o journaling creativo.
 
-              — Mónica Domínguez e Daniel Piñeiro (Aula D): As Ninguéns.
+              - Mónica Domínguez e Daniel Piñeiro (Aula D): As Ninguéns.
 
-              —Laura Villar (EASD Mestre Mateo): Lembranza.
+              - Laura Villar (EASD Mestre Mateo): Lembranza.
 
-              — XXX (EASD Ramón Falcón): XXX
+              - XXX (EASD Ramón Falcón): XXX
             speakers:
               - estudantes
           - time: 19.00 h
@@ -220,11 +220,35 @@ blocks:
               Deseño contemporáneo da información: rupturas formais, contextuais
               e tecnolóxicas.
             label: Relatorio
+            description: >-
+              A visualización de datos vive unha época de plenitude e esplendor.
+              A irrupción dos dispositivos e aferramentas dixitais permitiron
+              romper una tradición de séculos tanto en forma como en contexto.
+              Da man de Dataviz Cowboy faremos unha exploración destas rupturas
+              a través de novas propostas dedeseño, ao tempo que se abre a
+              reflexión sobre a vixencia desta plenitude.
             speakers:
               - jorge
           - time: 17.00 h
             title: Xente
             label: Relatorio
+            description: >-
+              Logo de 30 anos nesta profesión, miro atrás e vexo ao fin o común
+              denominador: a xente. O meu traballo foi, e sigue sendo, construír
+              unha plataforma na que amosar o extraordinaria que é a xente do
+              común. Este proceso tomou todas as formas posibles que conviven
+              nesta profesión: campañas, identidades, libros, espazos,
+              espectáculos, produtos... Pero ao final sempre é a xente o que
+              atrae a miña atención e sóbese ao podio. Esa é a viaxe que quero
+              compartir convosco nesta presentación.Logo de 30 anos nesta
+              profesión, miro atrás e vexo ao fin o común denominador: a xente.
+              O meu traballo foi, e sigue sendo, construír unha plataforma na
+              que amosar o extraordinaria que é a xente do común. Este proceso
+              tomou todas as formas posibles que conviven nesta profesión:
+              campañas, identidades, libros, espazos, espectáculos, produtos...
+              Pero ao final sempre é a xente o que atrae a miña atención e
+              sóbese ao podio. Esa é a viaxe que quero compartir convosco nesta
+              presentación.
             speakers:
               - mariola
           - time: 17.45 h
@@ -233,6 +257,13 @@ blocks:
           - time: 18.00 h
             title: Cara unha cultura do deseño
             label: Relatorio
+            description: >-
+              A través do meu traballo como deseñador, curador e educador,
+              considero o deseño como unha ferramenta cultural capaz de xerar un
+              discurso crítico e transformar contextos. No relatorio abordarei
+              temas como a historia do deseño, a relación entre produción e
+              obxecto e como construír plataformas que conecten práctica e
+              investigación.
             speakers:
               - miguel
           - time: 18.45 h
@@ -249,7 +280,6 @@ blocks:
               - vitor-horacio
   - type: speakers
     title: Relatoras
-    description: 'O Feed contará con '
     id: relatoras
     theme: width-full
     speakers:
@@ -259,36 +289,27 @@ blocks:
         role: Creative director
         bio: >-
           A súa traxectoria profesional esténdese ao longo de 28 anos vinculados
-          ao deseño gráfico e á
-
-          comunicación. Dende os primeiros pasos como deseñadora junior en
-          Santiago de Compostela até a
+          ao deseño gráfico e á comunicación. Dende os primeiros pasos como
+          deseñadora junior en Santiago de Compostela até a
 
           etapa actual como directora de arte en Costa, estudo de deseño da
-          Coruña, foi tecendo un percorrido
+          Coruña, foi tecendo un percorrido por axencias como BAP & Conde, Idea
+          Creatividad ou Imaxe, asumindo proxectos para clientes institucionais
+          e privados como Xunta de Galicia, Turismo de Galicia, Xacobeo,
+          Estrella Galicia, Inditex ou Abanca.
 
-          por axencias como BAP & Conde, Idea Creatividad ou Imaxe, asumindo
-          proxectos para clientes
 
-          institucionais e privados como Xunta de Galicia, Turismo de Galicia,
-          Xacobeo, Estrella Galicia, Inditex ou
+          No 2015 co-fundou The Office, estudo que se consolidou como referente
+          da comunicación cultural con proxectos para o Teatro Pavón Kamikaze
+          (Premio Nacional de Teatro 2017), Cineuropa, Festival Noroeste
+          Estrella Galicia ou a Deputación da Coruña, ademais de campañas para a
 
-          Abanca. No 2015 co-fundou The Office, estudo que se consolidou como
-          referente da comunicación
+          Comunidade e o Concello de Madrid ou o Ministerio de Cultura.
 
-          cultural con proxectos para o Teatro Pavón Kamikaze (Premio Nacional
-          de Teatro 2017), Cineuropa,
 
-          Festival Noroeste Estrella Galicia ou a Deputación da Coruña, ademais
-          de campañas para a
-
-          Comunidade e o Concello de Madrid ou o Ministerio de Cultura. Entre os
-          recoñecementos recibidos
-
-          están o primeiro premio no Maratón Stone Laus 2001, dous premios de
-          carteis con perspectiva de
-
-          xénero (2010 e 2018) e finalista nos Premios Paraguas na categoría de
+          Entre os recoñecementos recibidos están o primeiro premio no Maratón
+          Stone Laus 2001, dous premios de carteis con perspectiva de xénero
+          (2010 e 2018) e finalista nos Premios Paraguas na categoría de
           Creatividade no ano 2018.
         image: /files/people/Foto-Patricia-Portela_programa.jpg
         links:
@@ -300,6 +321,30 @@ blocks:
         id: mariola
         company: LopezLab
         role: Fundadora
+        bio: >-
+          Formouse na Escola de Arte de Oviedo e ao finalizar, logo de seis anos
+          de traballo en España –primeiro en Galicia con Conchita Viñas e Eloy
+          Lozano, e logo en Barcelona con Studio Peret– mudouse en 2001 a
+          Amsterdam para unirse ao equipo de Total Design e despois ao Studio
+          Anthon Beeke, onde foi directora creativa. En 2008 fundou Lopezlab e
+          máis tarde o colectivo ABC e a editorial Spin Books.
+
+
+          Aínda que o seu traballo é multidisciplinar, cruzando plataformas,
+          sectores e roles –identidades, campañas, libros, consultoría,
+          interior, produtos– todos os seus proxectos teñen un común e marcado
+
+          compoñente social, estratéxico e narrativo. Nos últimos anos, o seu
+          interese no espazo, onde se cruzan natureza, agricultura e medio
+          ambiente, levárona a colaborar con agricultores, universidades e
+
+          empresas que buscan conciliar estes campos.
+
+
+          Recibiu diversos premios e recoñecementos, entre outros Laus, FILAF,
+          Dutch Design Awards, Dutch Identity Awards, Dutch Theater Poster
+          Awards, Dutch Book Design Awards e, este verán, o Fedrigoni Global
+          Award polo libro Uxua – *Utopia*.
         image: /files/people/Mariola_Lopez_programa_BN.jpg
         links:
           - icon: link
@@ -309,6 +354,25 @@ blocks:
       - name: Miguel Leiro
         id: miguel
         role: 'Diseñador, curador e educador'
+        bio: >-
+          É deseñador, curador e educador con sede en Madrid, onde dirixe un
+          estudio centrado en deseño de produto, dirección creativa, interiores
+          e branding. A súa práctica combina o deseño coa curadoría para xerar
+          novas formas de mediación cultural.
+
+
+          En 2020 fundou MAYRIT, unha bienal de deseño e arquitectura
+          experimental que, logo de tres edicións, se consolidou como plataforma
+          crítica para o pensamento contemporáneo. O seu traballo foi exhibido
+          internacionalmente no Salone Satellite, Maison & Objet, EDIT Napoli ou
+          a Porto Design Biennale, e foi recoñecido co Rome Design Award e o
+          Maison&Objet Rising Talent Award.
+
+
+          En 2025, recibiu o Premio Nacional de Diseño de España na categoría de
+          profesionais noveis. Como docente en IED Madrid e a IE University
+          fomenta unha visión crítica do deseño. Leiro tamén escribe sobre
+          deseño, historia e cultura en *PIN–UP Magazine e ICON Design*.
         image: /files/people/MIGUEL_LEIRO_programa_BN.jpg
         links:
           - icon: link
@@ -317,6 +381,27 @@ blocks:
         id: jorge
         company: Dataviz Cowboy
         role: Deseñador de información
+        bio: >-
+          Deseñador de información a través do proxecto Dataviz Cowboy, Jorge
+          Martínez Rey é licenciado en Físicas pola Universidade de Santiago de
+          Compostela, conta cun máster en oceanografía física pola British
+          Antarctic Survey en Cambridge, e un doutorado en modelos oceánicos e
+          cambio climático polo LSCE en París e a ETH en Zúrich.
+
+
+          No 2011 comeza a traballar con D3.js para explicar de forma gráfica e
+          intuitiva os mecanismos do cambio climático no ámbito académico.
+          Posteriormente aplica a técnica en empresas e start-ups nos eidos das
+          redes sociais, news feeds, e-commerce ou campañas de marketing, sen
+          perder o seu interese no medio ambiente abordando a visualización de
+          fenómenos naturais extremos como volcáns, incendios ou tornados.
+
+
+          Nestes ámbitos a visualización de datos adopta usos e significados moi
+          diferentes, o cal lle permite seguir avanzando no deseño de formas e a
+          súa percepción por audiencias cada vez máis diversas e
+
+          cambiantes.
         image: /files/people/Jorge_Martinez_programa.jpg
         links:
           - icon: link
@@ -324,7 +409,37 @@ blocks:
       - name: Stef Silva
         id: stef
         company: Invisible
-        role: Fundadora
+        role: Fundadora e directora creativa
+        bio: >-
+          Fundadora e directora creativa de Invisible, laboratorio de
+          investigación cultural, prospectiva e deseño do grupo Jungle. Stef
+          explora narrativas e marcos de referencia alternativos para ampliar os
+          imaxinarios das marcas e organizacións. O obxectivo de Invisible é
+          investigar a través do deseño, as teorías culturais e o *futures
+          thinking* para influír no futuro a partir de novos relatos,
+          estratexias e modelos de innovación.
+
+
+          Leva a cabo o seu traballo cunha ollada crítica e reflexiva sobre as
+          consecuencias que os negocios e o deseño teñen en nós como sociedade e
+          na natureza. Traballa man a man con organizacións, axudándolles a
+          xestionar a complexidade a través de narrativas, identidades e
+          culturas innovadoras que parten da sensibilidade e dos procesos
+          creativos que nos achegan o deseño e a arte.
+
+
+          Compaxina o seu labor coa docencia en cursos de posgrao de distintas
+          universidades e centros educativos internacionais do ámbito do deseño
+          e foi nomeada como unha das 40 futuristas máis importantes do estado e
+          unha das persoas máis creativas no eido dos negocios pola Revista
+          Forbes.
+
+
+          Amais, continuou formándose en escolas europeas como Goldsmiths,
+          KaosPilot, Hyper Island, H2i, Bespoke e Istituto Europeo di Design,
+          estendendo a súa formación en Digital Strategy, Experience Design,
+          Speculative Design, Future Design e Visual Communication. Actualmente
+          curso o grao de Humanidades.
         image: /files/people/StefSilva_programa_BN.jpg
         links:
           - icon: link
@@ -339,6 +454,20 @@ blocks:
             url: 'https://lugaposterbiennale.org/'
       - name: Estudantes de deseño
         id: estudantes
+        bio: >-
+          Presentación de proxectos de estudantes das diferentes escolas de
+          deseño
+
+
+          - Ángel García (Facultade de Comunicación, UVigo).
+
+          - Sara Dobarrio (EASD Antonio Faílde).
+
+          - Ana Cristina Ascanio (Escola Superior Marcelo Macías).
+
+          - Mónica Domínguez e Daniel Piñeiro (Aula D).
+
+          - Laura Villar (EASD Mestre Mateo).
         image: /files/people/avatar.webp
         links: []
   - type: location
