@@ -100,7 +100,13 @@
 }
 .theme.is-primary {
   --color-text: #f19000;
+	--color-links: #f19000;
   --color-titles: white;
+}
+.theme {
+	h2 {
+		color: var(--color-text);
+	}
 }
 .navbar-logo img {
 	width: auto;
@@ -145,4 +151,26 @@
 	a:hover img {
 		filter: saturate(0) brightness(2);
 	}
+}
+
+.speaker {
+	padding: 0;
+	overflow: hidden;
+
+	> h4 {
+		padding-inline: 1rem;
+	}
+	> p {
+		padding: 0 1rem 1rem;
+	}
+}
+.event-speakers > li > button {
+	color: var(--color-secondary);
+	&:hover {
+		background-color: color-mix(in srgb, var(--color-bg) 90%, black);
+	}
+}
+.badge {
+	background-color: var(--color-secondary);
+	color: black;
 }

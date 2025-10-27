@@ -77,6 +77,9 @@ blocks:
         events:
           - time: 10.00—12.00 h
             title: OFF FEED
+            subtitle: >-
+              Presentación de iniciativas que amplían os nosos coñecementos
+              sobre deseño.
             description: >-
               —Font Licensing Mess
 
@@ -119,6 +122,9 @@ blocks:
             title: >-
               Diálogos para sinerxias. O papel do deseño no desenvolvemento
               empresarial
+            subtitle: >-
+              Espazo de diálogo e encontro entre empresas e profesionais do
+              deseño
             description: >-
               Sesión de *networking* entre profesionais de deseño e
               representantes empresariais cun reto: o intercambio de coñecemento
@@ -144,6 +150,17 @@ blocks:
               Stop making sense. Recomendacións sen (demasiado) sentido para
               quen se inicia no deseño.
             label: Relatorio
+            description: >-
+              Unha charla para quen está a comezar no mundo do deseño. Non
+              pretende ser un manual nin un
+
+              portafolios, senón un conxunto de recomendacións pouco lóxicas
+              —pero moi reais— que fun
+
+              descubrindo en 28 anos de profesión. Un convite a confiar na
+              intuición, aceptar o erro e entender que o
+
+              camiño creativo nunca é en liña recta.
             speakers:
               - patricia
           - time: 17.45 h
@@ -232,12 +249,47 @@ blocks:
               - vitor-horacio
   - type: speakers
     title: Relatoras
+    description: 'O Feed contará con '
     id: relatoras
     theme: width-full
     speakers:
       - name: Patricia Portela
         id: patricia
         company: The Office
+        role: Creative director
+        bio: >-
+          A súa traxectoria profesional esténdese ao longo de 28 anos vinculados
+          ao deseño gráfico e á
+
+          comunicación. Dende os primeiros pasos como deseñadora junior en
+          Santiago de Compostela até a
+
+          etapa actual como directora de arte en Costa, estudo de deseño da
+          Coruña, foi tecendo un percorrido
+
+          por axencias como BAP & Conde, Idea Creatividad ou Imaxe, asumindo
+          proxectos para clientes
+
+          institucionais e privados como Xunta de Galicia, Turismo de Galicia,
+          Xacobeo, Estrella Galicia, Inditex ou
+
+          Abanca. No 2015 co-fundou The Office, estudo que se consolidou como
+          referente da comunicación
+
+          cultural con proxectos para o Teatro Pavón Kamikaze (Premio Nacional
+          de Teatro 2017), Cineuropa,
+
+          Festival Noroeste Estrella Galicia ou a Deputación da Coruña, ademais
+          de campañas para a
+
+          Comunidade e o Concello de Madrid ou o Ministerio de Cultura. Entre os
+          recoñecementos recibidos
+
+          están o primeiro premio no Maratón Stone Laus 2001, dous premios de
+          carteis con perspectiva de
+
+          xénero (2010 e 2018) e finalista nos Premios Paraguas na categoría de
+          Creatividade no ano 2018.
         image: /files/people/Foto-Patricia-Portela_programa.jpg
         links:
           - icon: link
@@ -247,6 +299,7 @@ blocks:
       - name: Mariola López
         id: mariola
         company: LopezLab
+        role: Fundadora
         image: /files/people/Mariola_Lopez_programa_BN.jpg
         links:
           - icon: link
@@ -255,12 +308,15 @@ blocks:
             url: 'https://x.com/lopezlab1'
       - name: Miguel Leiro
         id: miguel
+        role: 'Diseñador, curador e educador'
         image: /files/people/MIGUEL_LEIRO_programa_BN.jpg
         links:
           - icon: link
             url: 'https://migueleiro.com/'
       - name: Jorge Martínez
         id: jorge
+        company: Dataviz Cowboy
+        role: Deseñador de información
         image: /files/people/Jorge_Martinez_programa.jpg
         links:
           - icon: link
@@ -268,13 +324,15 @@ blocks:
       - name: Stef Silva
         id: stef
         company: Invisible
+        role: Fundadora
         image: /files/people/StefSilva_programa_BN.jpg
         links:
           - icon: link
             url: 'https://invisiblelab.es/'
       - name: Vítor Quelhas e Horácio Marques
         id: vitor-horacio
-        company: Luga
+        company: Luga Poster Biennale
+        role: Docentes
         image: /files/people/Luga_unidos.jpg
         links:
           - icon: link
@@ -289,7 +347,7 @@ blocks:
     theme: is-secondary width-full box-fill
     embed: >-
       <iframe
-      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4359.478377350098!2d-8.528990922932982!3d42.871011902666744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2effcc8ff46f0d%3A0x1a7d07e79b5306cb!2sCentro%20de%20Innovaci%C3%B3n%20Cultural%20(CINC)!5e1!3m2!1sgl!2ses!4v1761478357850!5m2!1sgl!2ses"
+      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5848.1739834223445!2d-8.526416!3d42.871008!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2effcc8ff46f0d%3A0x1a7d07e79b5306cb!2sCentro%20de%20Innovaci%C3%B3n%20Cultural%20(CINC)!5e0!3m2!1sgl!2ses!4v1761585947332!5m2!1sgl!2ses"
       width="600" height="450" style="border:0;" allowfullscreen=""
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     caption: >-
