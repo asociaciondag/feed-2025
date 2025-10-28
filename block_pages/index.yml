@@ -143,6 +143,10 @@ blocks:
           - time: 16.15 h
             title: 'Futuro e deseño: na incrucillada da imaxinación'
             label: Relatorio
+            description: >-
+              Reflexións sobre o papel do deseño e a tecnoloxía nas aspiracións
+              inherentes ao ser humano; un tránsito por camiños entre a
+              materialización das necesidades e as esixencias do mercado.
             speakers:
               - stef
           - time: 17.00 h
@@ -204,9 +208,13 @@ blocks:
             subtitle: >-
               Achegamento ao pensamento de futuros. Perspectivas críticas do
               futuro desde a práctica do deseño.
-            description: |-
-              - Fundación Didac
-              - 20 prazas
+            description: >-
+              Perspectivas críticas do futuro dende a práctica do deseño. Un
+              taller para iniciarse nas prácticas desta disciplina. Non é
+              preciso equipo informático, inclúe os materiais para o seu
+              desenvolvemento.
+
+              20 prazas, na [Fundación DIDAC](https://didac.gal/).
             speakers:
               - stef
           - time: 15.45 h
