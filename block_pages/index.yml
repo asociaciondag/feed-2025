@@ -141,7 +141,7 @@ blocks:
             title: Benvida
             speakers: []
           - time: 16.15 h
-            title: 'Futuro e deseño: na incrucillada da imaxinación'
+            title: '<em>Futuro e deseño: na incrucillada da imaxinación</em>'
             label: Relatorio
             description: >-
               Reflexións sobre o papel do deseño e a tecnoloxía nas aspiracións
@@ -151,8 +151,8 @@ blocks:
               - stef
           - time: 17.00 h
             title: >-
-              Stop making sense. Recomendacións sen (demasiado) sentido para
-              quen se inicia no deseño.
+              <em>Stop making sense. Recomendacións sen (demasiado) sentido para
+              quen se inicia no deseño.</em>
             label: Relatorio
             description: >-
               Unha charla para quen está a comezar no mundo do deseño. Non
@@ -175,26 +175,24 @@ blocks:
               Presentación de proxectos de estudantes das diferentes escolas de
               deseño
             description: >-
-              - Ángel García (Facultade de Comunicación, UVigo): Homenaxe ao
+              - Ángel García (Facultade de Comunicación, UVigo): *Homenaxe ao
 
-              in(necesario). Macarróns con tomate: Máis difícil do que parece.
+              in(necesario). Macarróns con tomate: Máis difícil do que parece.*
 
-              - Sara Dobarrio (EASD Antonio Faílde): Kubix design game.
+              - Sara Dobarrio (EASD Antonio Faílde): *Kubix design game.*
 
-              - Ana Cristina Ascanio (Escola Superior Marcelo Macías): Hudzzy,
-              unha app para
+              - Ana Cristina Ascanio (Escola Superior Marcelo Macías): *Hudzzy,
+              unha app para o journaling creativo.*
 
-              o journaling creativo.
+              - Mónica Domínguez e Daniel Piñeiro (Aula D): *As Ninguéns.*
 
-              - Mónica Domínguez e Daniel Piñeiro (Aula D): As Ninguéns.
+              - Laura Villar (EASD Mestre Mateo): *Lembranza.*
 
-              - Laura Villar (EASD Mestre Mateo): Lembranza.
-
-              - XXX (EASD Ramón Falcón): XXX
+              - XXX (EASD Ramón Falcón): *XXX*
             speakers:
               - estudantes
           - time: 19.00 h
-            title: 'Crear nos temos da IA, pactos de convivencia'
+            title: '<em>Crear nos temos da IA, pactos de convivencia</em>'
             label: Mesa redonda
             subtitle: >-
               Chus Rojo (AGPI), Alberto Quián (USC), Stef Silva (Invisibles) e
@@ -225,8 +223,8 @@ blocks:
             speakers: []
           - time: 16.15 h
             title: >-
-              Deseño contemporáneo da información: rupturas formais, contextuais
-              e tecnolóxicas.
+              <em>Deseño contemporáneo da información: rupturas formais,
+              contextuais e tecnolóxicas.</em>
             label: Relatorio
             description: >-
               A visualización de datos vive unha época de plenitude e esplendor.
@@ -263,7 +261,7 @@ blocks:
             title: Descanso
             speakers: []
           - time: 18.00 h
-            title: Cara unha cultura do deseño
+            title: <em>Cara unha cultura do deseño</em>
             label: Relatorio
             description: >-
               A través do meu traballo como deseñador, curador e educador,
@@ -275,7 +273,9 @@ blocks:
             speakers:
               - miguel
           - time: 18.45 h
-            title: O cartel como territorio de encontro. A LUGA Poster Biennale.
+            title: >-
+              <em>O cartel como territorio de encontro. A LUGA Poster
+              Biennale.</em>
             label: Relatorio
             speakers:
               - vitor-horacio
@@ -294,7 +294,7 @@ blocks:
       - name: Patricia Portela
         id: patricia
         company: The Office
-        role: Creative director
+        role: Directora creativa
         bio: >-
           A súa traxectoria profesional esténdese ao longo de 28 anos vinculados
           ao deseño gráfico e á comunicación. Dende os primeiros pasos como
@@ -521,7 +521,7 @@ blocks:
           A 10 minutos da Estación Intermodal
         icon: map-pin
   - type: logos
-    title: Colaboran
+    title: Entidades
     theme: width-full
     size: medium
     items:
