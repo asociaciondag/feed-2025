@@ -42,7 +42,8 @@
     "serve": {
       "description": "Run and serve the site for development",
       "command": "deno task lume -s"
-    }
+    },
+    "deploy": "deno task build && rsync -r _site/ 'dag@dag.gal:~/www/current/public/feed2025'"
   },
   "compilerOptions": {
     "types": [
