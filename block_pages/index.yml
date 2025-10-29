@@ -79,7 +79,7 @@ blocks:
             title: OFF FEED
             subtitle: >-
               Presentación de iniciativas que amplían os nosos coñecementos
-              sobre deseño.
+              sobre deseño
             description: >-
               —Font Licensing Mess
 
@@ -141,7 +141,7 @@ blocks:
             title: Benvida
             speakers: []
           - time: 16.15 h
-            title: '<em>Futuro e deseño: na incrucillada da imaxinación</em>'
+            title: '<em>Futuro e deseño: na encrucillada da imaxinación</em>'
             label: Relatorio
             description: >-
               Reflexións sobre o papel do deseño e a tecnoloxía nas aspiracións
@@ -152,7 +152,7 @@ blocks:
           - time: 17.00 h
             title: >-
               <em>Stop making sense. Recomendacións sen (demasiado) sentido para
-              quen se inicia no deseño.</em>
+              quen se inicia no deseño</em>
             label: Relatorio
             description: >-
               Unha charla para quen está a comezar no mundo do deseño. Non
@@ -188,15 +188,16 @@ blocks:
 
               - Laura Villar (EASD Mestre Mateo): *Lembranza.*
 
-              - XXX (EASD Ramón Falcón): *XXX*
+              - Laura Iglesias Mallou (EASD Ramón Falcón): *BASIDEA. Refuxios
+              que unen.*
             speakers:
               - estudantes
           - time: 19.00 h
             title: '<em>Crear nos temos da IA, pactos de convivencia</em>'
             label: Mesa redonda
             subtitle: >-
-              Chus Rojo (AGPI), Alberto Quián (USC), Stef Silva (Invisibles) e
-              representante de DAG.
+              Chus Rojo (ilustradora e membro de AGPI), Alberto Quian (USC),
+              Stef Silva (Invisible) e Carlos Lorenzo (deseñador e socio de DAG)
             speakers: []
       - title: Sábado 8 novembro. Fundación Didac. Edificio Cinc. Cidade da Cultura
         events:
@@ -205,7 +206,7 @@ blocks:
             label: Taller
             subtitle: >-
               Achegamento ao pensamento de futuros. Perspectivas críticas do
-              futuro desde a práctica do deseño.
+              futuro desde a práctica do deseño
             description: >-
               Perspectivas críticas do futuro dende a práctica do deseño. Un
               taller para iniciarse nas prácticas desta disciplina. Non é
@@ -224,7 +225,7 @@ blocks:
           - time: 16.15 h
             title: >-
               <em>Deseño contemporáneo da información: rupturas formais,
-              contextuais e tecnolóxicas.</em>
+              contextuais e tecnolóxicas</em>
             label: Relatorio
             description: >-
               A visualización de datos vive unha época de plenitude e esplendor.
@@ -275,7 +276,7 @@ blocks:
           - time: 18.45 h
             title: >-
               <em>O cartel como territorio de encontro. A LUGA Poster
-              Biennale.</em>
+              Biennale</em>
             label: Relatorio
             speakers:
               - vitor-horacio
@@ -293,7 +294,7 @@ blocks:
     speakers:
       - name: Patricia Portela
         id: patricia
-        company: The Office
+        company: Costa
         role: Directora creativa
         bio: >-
           A súa traxectoria profesional esténdese ao longo de 28 anos vinculados
@@ -324,7 +325,7 @@ blocks:
           - icon: link
             url: 'https://www.theofficeco.es/'
           - icon: instagram-logo
-            url: 'https://www.instagram.com/theofficecomunicacion/'
+            url: 'https://www.instagram.com/patriciacualquiera/'
       - name: Mariola López
         id: mariola
         company: LopezLab
@@ -361,7 +362,7 @@ blocks:
             url: 'https://x.com/lopezlab1'
       - name: Miguel Leiro
         id: miguel
-        role: 'Diseñador, curador e educador'
+        role: 'Deseñador, curador e educador'
         bio: >-
           É deseñador, curador e educador con sede en Madrid, onde dirixe un
           estudio centrado en deseño de produto, dirección creativa, interiores
@@ -476,6 +477,8 @@ blocks:
           - Mónica Domínguez e Daniel Piñeiro (Aula D).
 
           - Laura Villar (EASD Mestre Mateo).
+
+          - Laura Iglesias Mallou (EASD Ramón Falcón).
         image: /files/people/avatar.webp
         links: []
   - type: location
