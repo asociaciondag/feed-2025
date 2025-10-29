@@ -41,7 +41,7 @@ blocks:
       Esta 8º edición non sería posible sen o apoio directo de AGADIC e a
       colaboración de empresas e entidades locais.
   - type: text
-    title: Diálogos para sinerxias
+    title: Diálogos para sinerxías
     theme: is-primary width-full box-fill
     columns: false
     text: >-
@@ -120,7 +120,7 @@ blocks:
             speakers: []
           - time: 13.00—15.00 h
             title: >-
-              Diálogos para sinerxias. O papel do deseño no desenvolvemento
+              Diálogos para sinerxías. O papel do deseño no desenvolvemento
               empresarial
             subtitle: >-
               Espazo de diálogo e encontro entre empresas e profesionais do
@@ -463,6 +463,7 @@ blocks:
             url: 'https://lugaposterbiennale.org/'
       - name: Estudantes de deseño
         id: estudantes
+        company: Presentación de proxectos
         bio: >-
           Presentación de proxectos de estudantes das diferentes escolas de
           deseño
