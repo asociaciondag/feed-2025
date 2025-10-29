@@ -73,7 +73,7 @@ blocks:
     id: programa
     theme: width-full
     days:
-      - title: Venres 7 novembro. Edicificio Cinc. Cidade da Cultura
+      - title: Venres 7 novembro. Edificio Cinc Cidade da Cultura
         events:
           - time: 10.00—12.00 h
             title: OFF FEED
@@ -278,6 +278,15 @@ blocks:
               <em>O cartel como territorio de encontro. A LUGA Poster
               Biennale</em>
             label: Relatorio
+            description: >-
+              A LUGA Poster Biennale, promovida por ESMAD/P.PORTO e ID+, nace
+              para celebrar o cartel como unha linguaxe viva de arte e
+              comunicación. Entre Portugal e Galicia, o proxecto convértese nun
+              espazo de encontro internacional onde deseñadores e artistas
+              comparten visións, exploran novas estéticas e experimentan camiños
+              creativos. Máis que mostrar carteis, LUGA quere provocar o
+              diálogo, inspirar comunidades e afirmar este soporte como
+              territorio de innovación cultural.
             speakers:
               - vitor-horacio
           - time: 19.30 h
@@ -457,6 +466,23 @@ blocks:
         id: vitor-horacio
         company: Luga Poster Biennale
         role: Docentes
+        bio: >-
+          Vítor, doutorado en deseño, é profesor coordinador e vice-presidente
+          na ESMAD/P.PORTO, dirixe o polo de investigación ID+ e foi distinguido
+          polo TDC NY. Horácio, doutorado en medios dixitais, é artista,
+          deseñador e investigador transdisciplinar, pioneiro en proxectos
+          multimedia innovadores, como a primeira  visita virtual ao Parlamento
+          portugués, tendo desenvolvido nos últimos anos obras audiovisuais con
+          interfaces cerebro-computador. 
+
+
+          O resto do equipo da LUGA Design Biennale está conformado por Sérgio
+          Alves e Rita Anjos. O primeiro é deseñador gráfico e director de arte
+          no Atelier d’alves e tamén docente na ESMAD, recoñecido co Prémio
+          Sebastião Rodrigues e colaborações internacionais. Rita é deseñadora,
+          mestrada pola ESMAD, con práticas que cruzan deseño, fotografía e
+          cinema, explorando o cartel como medio expresivo e obxecto de
+          investigación.
         image: /files/people/Luga_unidos.jpg
         links:
           - icon: link
