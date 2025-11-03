@@ -25,8 +25,8 @@ blocks:
     theme: is-secondary width-full box-fill
     columns: false
     text: >-
-      O FEED é un evento bianual que organiza a Asociación Galega de Deseño,
-      para achegarse á actualidade das disciplinas do deseño e das persoas que
+      O FEED é un evento bienal que organiza a Asociación Galega de Deseño, para
+      achegarse á actualidade das disciplinas do deseño e das persoas que
       traballan nelas, transladando o interese aos sectores formativo,
       profesional, empresarial e social.
 
@@ -68,12 +68,19 @@ blocks:
       coñecementos sobre licenzas tipográficas e os seus usos, sistemas de
       comunicación accesibles e lexibles, arquivos dixitais de deseño ou a
       integración de perspectiva de xénero nos proxectos profesionais.
+  - type: text
+    title: Mesa rendonda
+    theme: is-primary width-full box-fill
+    columns: false
+    text: >-
+      Tamén haberá espazo para o debate e a reflexión, desta volta sobre os
+      retos chegados coa Intelixencia Artificial.
   - type: calendar
     title: Programa
     id: programa
     theme: width-full
     days:
-      - title: Venres 7 novembro. Edificio Cinc Cidade da Cultura
+      - title: Venres 7 novembro. Edificio CINC Cidade da Cultura
         events:
           - time: 10.00—12.00 h
             title: OFF FEED
@@ -199,7 +206,7 @@ blocks:
               Chus Rojo (ilustradora e membro de AGPI), Alberto Quian (USC),
               Stef Silva (Invisible) e Carlos El Rojo (deseñador e socio de DAG)
             speakers: []
-      - title: Sábado 8 novembro. Fundación Didac. Edificio Cinc. Cidade da Cultura
+      - title: Sábado 8 novembro. Fundación DIDAC. Edificio CINC. Cidade da Cultura
         events:
           - time: 10.00—13.00 h
             title: Stef Silva
@@ -331,8 +338,8 @@ blocks:
           Creatividade no ano 2018.
         image: /files/people/Foto-Patricia-Portela_programa.jpg
         links:
-          - icon: link
-            url: 'https://www.theofficeco.es/'
+          - icon: behance-logo
+            url: 'https://www.behance.net/patriciaportela'
           - icon: instagram-logo
             url: 'https://www.instagram.com/patriciacualquiera/'
       - name: Mariola López
@@ -518,10 +525,10 @@ blocks:
       width="600" height="450" style="border:0;" allowfullscreen=""
       loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     caption: >-
-      O FEED 2025 ten como sede principal o Edificio Cinc da cidade da Cultura
+      O FEED 2025 ten como sede principal o Edificio CINC da cidade da Cultura
       de Galicia. Alí realizaranse todas as actividades programadas, agás o
       taller profesional dirixido por Stef Silva que terá lugar na Fundación
-      Didac.
+      DIDAC.
     directions:
       - title: En coche dende a AP-9
         description: Saída directa tanto dirección Coruña como Pontevedra.
